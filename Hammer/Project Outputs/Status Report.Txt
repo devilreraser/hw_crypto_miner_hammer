@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [Hammer.PcbDoc]
+   Generated File[Hammer.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 13:32:11 On 21.4.2014 ã.
